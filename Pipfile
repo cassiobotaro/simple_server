@@ -8,6 +8,9 @@ sanic = "*"
 
 
 
+
 [dev-packages]
+
 pytest = "*"
 aiohttp = "*"
+"flake8-bugbear" = "*"
